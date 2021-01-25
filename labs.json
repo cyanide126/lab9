@@ -5,6 +5,7 @@
 		"date": "January 10",
 		"image": "octocat.jpg"
 	},
+	
 	{
 		"id": "lab-2",
 		"title": "Styling",
@@ -47,4 +48,5 @@
 		"date": "February 28",
 		"image": "api.png"
 	}
+	
 ]
